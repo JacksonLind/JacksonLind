@@ -56,23 +56,23 @@
 
 ### Core Tools & Languages
 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)](https://www.wireshark.org)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)](https://www.python.org)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)](https://www.java.com)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117)](https://www.gnu.org/software/bash)
 
 ### Platforms & Environments
 
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117)
+[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117)](https://www.kali.org)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)](https://www.kernel.org)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117)](https://www.microsoft.com/windows)
 
 ### Security Stack
 
-![SIEM](https://img.shields.io/badge/-SIEM-00B4FF?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117)
-![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117)
-![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white&labelColor=0d1117)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=0d1117)
+[![SIEM](https://img.shields.io/badge/-SIEM-00B4FF?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117)](https://www.elastic.co)
+[![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117)](https://www.splunk.com)
+[![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white&labelColor=0d1117)](https://nmap.org)
+[![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=0d1117)](https://www.metasploit.com)
 
 </div>
 
@@ -96,9 +96,9 @@ proficiency:
 
 | &nbsp; | Repository | Description | Status |
 |:------:|:-----------|:------------|:------:|
-| 📁 | **ctf-writeups** | Challenge solutions, methodology & tooling notes | ![WIP](https://img.shields.io/badge/IN_PROGRESS-f0a500?style=flat-square) |
-| 📁 | **sec-homelab** | Personal security lab — detection rules & configs | ![WIP](https://img.shields.io/badge/IN_PROGRESS-f0a500?style=flat-square) |
-| 📁 | **threat-intel** | IOC collection, OSINT workflows, research notes | ![Planned](https://img.shields.io/badge/PLANNED-555?style=flat-square) |
+| 📁 | [**ctf-writeups**](https://github.com/jacksonlind/ctf-writeups) | Challenge solutions, methodology & tooling notes | [![WIP](https://img.shields.io/badge/IN_PROGRESS-f0a500?style=flat-square)](https://github.com/jacksonlind/ctf-writeups) |
+| 📁 | [**sec-homelab**](https://github.com/jacksonlind/sec-homelab) | Personal security lab — detection rules & configs | [![WIP](https://img.shields.io/badge/IN_PROGRESS-f0a500?style=flat-square)](https://github.com/jacksonlind/sec-homelab) |
+| 📁 | [**threat-intel**](https://github.com/jacksonlind/threat-intel) | IOC collection, OSINT workflows, research notes | [![Planned](https://img.shields.io/badge/PLANNED-555?style=flat-square)](https://github.com/jacksonlind/threat-intel) |
 
 </div>
 
