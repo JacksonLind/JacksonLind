@@ -121,12 +121,12 @@ proficiency:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JacksonLind&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4ff&icon_color=00b4ff&text_color=8b949e&ring_color=00b4ff&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonLind&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4ff&text_color=8b949e&langs_count=6"/>
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=jacksonlind&cc=0d1117&tc=00b4ff&ic=00b4ff&bc=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonlind&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4ff&text_color=8b949e&langs_count=6"/>
 
 <br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JacksonLind&bg_color=0d1117&color=00b4ff&line=00b4ff&point=ffffff&area=true&area_color=0a3d5c&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jacksonlind&bg_color=0d1117&color=00b4ff&line=00b4ff&point=ffffff&area=true&area_color=0a3d5c&hide_border=true)
 
 </div>
 
