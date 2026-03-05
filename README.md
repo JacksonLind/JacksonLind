@@ -56,23 +56,23 @@
 
 ### Core Tools & Languages
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=social&logo=wireshark&logoColor=1679A7)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=social&logo=openjdk&logoColor=ED8B00)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=social&logo=gnubash&logoColor=4EAA25)
 
 ### Platforms & Environments
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=social&logo=kalilinux&logoColor=557C94)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows&logoColor=0078D6)
 
 ### Security Stack
 
-![SIEM](https://img.shields.io/badge/SIEM-00B4FF?style=for-the-badge&logo=elastic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-00B4FF?style=social&logo=elastic&logoColor=00B4FF)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=social&logo=splunk&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=social&logo=nmap&logoColor=214478)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=social&logo=metasploit&logoColor=2596CD)
 
 </div>
 
@@ -121,8 +121,7 @@ proficiency:
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=jacksonlind&cc=0d1117&tc=00b4ff&ic=00b4ff&bc=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonlind&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4ff&text_color=8b949e&langs_count=6"/>
+<img width="60%" src="https://github-stats-alpha.vercel.app/api?username=jacksonlind&cc=0d1117&tc=00b4ff&ic=00b4ff&bc=0d1117"/>
 
 <br><br>
 
