@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4FF&center=true&vCenter=true&width=700&height=60&lines=JACKSON+LIND;SOC+Analyst+%2F%2F+Blue+Team;CTF+Player+%2F%2F+Threat+Hunter" alt="Typing SVG" />
-
-<sub>Entry Level SOC Analyst &nbsp;·&nbsp; Full Time CTF Player &nbsp;·&nbsp; Blue Team</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00B4FF&center=true&vCenter=true&width=700&height=60&lines=jackson+lind;SOC+Analyst+%2F%2F+CTF+Player;threat+detection+%2F%2F+incident+response;always+watching%2C+always+learning" alt="Typing SVG" />
 
 <br/>
 
@@ -14,26 +12,25 @@
 <br/>
 
 ```bash
-┌─[jackson@blueteam]─[~]
-└──╼ $ whoami
+┌─[jackson@kali]─[~]
+└──╼ $ cat operator.txt
 
+  handle  →  JacksonLind
   role    →  SOC Analyst [Entry Level]
   focus   →  Threat Detection · Incident Response · Log Analysis
   hobby   →  CTF Player
-  status  →  actively learning
+  status  →  [ actively learning ]
 ```
-
-<br/>
 
 ---
 
 ### Arsenal
 
 ```
-Network Analysis    Wireshark     ████████░░  proficient
-Scripting           Python        ██████░░░░  intermediate
-Development         Java          ██████░░░░  intermediate
-Log Monitoring      SIEM          █████░░░░░  developing
+Wireshark     ████████░░   network packet analysis
+Python        ██████░░░░   scripting & automation
+Java          ██████░░░░   application development
+SIEM          █████░░░░░   log correlation & monitoring
 ```
 
 <div align="center">
@@ -41,8 +38,8 @@ Log Monitoring      SIEM          █████░░░░░  developing
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
@@ -53,9 +50,10 @@ Log Monitoring      SIEM          █████░░░░░  developing
 
 ```diff
 - no active deployments
-+ CTF writeups        [in progress]
-+ blue team homelab   [in progress]
-+ detection rules     [planned]
+
++ ctf-writeups      →  challenge solutions & methodology notes   [in progress]
++ sec-homelab       →  personal lab environment & tooling        [in progress]
++ detection-rules   →  custom SIEM correlation rules             [planned]
 ```
 
 ---
@@ -64,8 +62,8 @@ Log Monitoring      SIEM          █████░░░░░  developing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JacksonLind&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4ff&icon_color=00b4ff&text_color=8b949e&ring_color=00b4ff" height="150"/>
-<img src="https://streak-stats.demolab.com?user=JacksonLind&hide_border=true&background=0d1117&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=8b949e&dates=8b949e&sideNums=00b4ff" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JacksonLind&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4ff&icon_color=00b4ff&text_color=8b949e&ring_color=00b4ff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonLind&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4ff&text_color=8b949e" height="160"/>
 
 </div>
 
