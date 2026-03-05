@@ -56,23 +56,23 @@
 
 ### Core Tools & Languages
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=social&logo=wireshark&logoColor=1679A7)
-![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=social&logo=openjdk&logoColor=ED8B00)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=social&logo=gnubash&logoColor=4EAA25)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117)
 
 ### Platforms & Environments
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=social&logo=kalilinux&logoColor=557C94)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows&logoColor=0078D6)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117)
 
 ### Security Stack
 
-![SIEM](https://img.shields.io/badge/SIEM-00B4FF?style=social&logo=elastic&logoColor=00B4FF)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=social&logo=splunk&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=social&logo=nmap&logoColor=214478)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=social&logo=metasploit&logoColor=2596CD)
+![SIEM](https://img.shields.io/badge/-SIEM-00B4FF?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117)
+![Splunk](https://img.shields.io/badge/-Splunk-FF6B35?style=flat-square&logo=splunk&logoColor=white&labelColor=0d1117)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white&labelColor=0d1117)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=0d1117)
 
 </div>
 
